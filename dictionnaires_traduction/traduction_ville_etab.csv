@@ -1,0 +1,1255 @@
+numero;ville_etab
+1;Pessac
+2;Valbonne
+3;Dijon
+4;Montpellier
+5;Villeneuve-d'Ascq
+6;Aubière
+7;Villetaneuse
+8;Plouzané
+9;Metz
+10;Toulouse
+11;Villeurbanne
+12;La Rochelle
+13;Paris  6e  Arrondissement
+14;Lyon 2e  Arrondissement
+15;Limoges
+16;Marseille
+17;Carquefou
+18;Valence
+19;Orléans
+20;Bordeaux
+21;Brest
+22;Bourg-en-Bresse
+23;Oyonnax
+24;Laon
+25;Saint-Quentin
+26;Soissons
+27;Montluçon
+28;Yzeure
+29;Cusset
+30;Briançon
+31;Gap
+32;Antibes
+33;Cannes
+34;Grasse
+35;Nice
+36;Annonay
+37;Aubenas
+38;Charleville-Mézières
+39;Sedan
+40;Foix
+41;Pamiers
+42;Bar-sur-Seine
+43;Troyes
+44;Carcassonne
+45;Narbonne
+46;Decazeville
+47;Rodez
+48;Marseille  8e  Arrondissement
+49;Marseille  1er Arrondissement
+50;Marseille 15e  Arrondissement
+51;Marseille  7e  Arrondissement
+52;Marseille 13e  Arrondissement
+53;Marseille  5e  Arrondissement
+54;Marseille 10e  Arrondissement
+55;Martigues
+56;Marseille  6e  Arrondissement
+57;Marseille  9e  Arrondissement
+58;Aix-en-Provence
+59;Gardanne
+60;Marseille  3e  Arrondissement
+61;La Ciotat
+62;Marignane
+63;Vitrolles
+64;Salon-de-Provence
+65;Caen
+66;Saint-Pierre-en-Auge
+67;Bayeux
+68;Lisieux
+69;Mondeville
+70;Hérouville-Saint-Clair
+71;Maltot
+72;Ifs
+73;Aurillac
+74;Angoulême
+75;Saint-Yrieix-sur-Charente
+76;Pons
+77;Rochefort
+78;Saintes
+79;Jonzac
+80;Bourges
+81;Vierzon
+82;Brive-la-Gaillarde
+83;Egletons
+84;Tulle
+85;Neuvic
+86;Meymac
+87;Naves
+88;Beaune
+89;Semur-en-Auxois
+90;Loudéac
+91;Saint-Brieuc
+92;Dinan
+93;Guingamp
+94;Plouisy
+95;Quessoy
+96;Lannion
+97;La Roche-Jaudy
+98;Coulounieix-Chamiers
+99;Périgueux
+100;Besançon
+101;Montbéliard
+102;Montélimar
+103;Vernon
+104;Pont-Audemer
+105;Val-de-Reuil
+106;Evreux
+107;Dreux
+108;Chartres
+109;Luisant
+110;Morlaix
+111;Quimper
+112;Lopérec
+113;Pont-l'Abbé
+114;Alès
+115;Nîmes
+116;Rodilhan
+117;Milhaud
+118;Muret
+119;Castanet-Tolosan
+120;Labège
+121;Blagnac
+122;Auzeville-Tolosane
+123;Saint-Orens-de-Gameville
+124;Ondes
+125;Auch
+126;Gradignan
+127;Talence
+128;Vayres
+129;Béziers
+130;Gignac
+131;Saint-Clément-de-Rivière
+132;Fougères
+133;Rennes
+134;Saint-Malo
+135;Le Rheu
+136;Redon
+137;Vitré
+138;Châteauroux
+139;Issoudun
+140;Tours
+141;Joué-lès-Tours
+142;Chambray-lès-Tours
+143;Fondettes
+144;Grenoble
+145;Vienne
+146;Voiron
+147;Saint-Martin-d'Hères
+148;Corenc
+149;Villemoirieu
+150;Villefontaine
+151;Seyssinet-Pariset
+152;Meylan
+153;L'Isle-d'Abeau
+154;Lons-le-Saunier
+155;Mouchard
+156;Poligny
+157;Champagnole
+158;Dole
+159;Dax
+160;Oeyreluy
+161;Saint-Paul-lès-Dax
+162;Blois
+163;Vendôme
+164;Roanne
+165;Saint-Etienne
+166;Nandax
+167;Andrézieux-Bouthéon
+168;Le Puy-en-Velay
+169;Brives-Charensac
+170;Fontannes
+171;La Baule-Escoublac
+172;Nantes
+173;Rezé
+174;Saint-Nazaire
+175;Le Landreau
+176;Saint-Sébastien-sur-Loire
+177;Bouguenais
+178;Saint-Herblain
+179;Basse-Goulaine
+180;Montargis
+181;Saint-Jean-de-la-Ruelle
+182;Amilly
+183;Cahors
+184;Souillac
+185;Agen
+186;Marmande
+187;Mende
+188;La Canourgue
+189;Saint-Chély-d'Apcher
+190;Cholet
+191;Angers
+192;Les Ponts-de-Cé
+193;Pont-Hébert
+194;Saint-Hilaire-du-Harcouët
+195;Avranches
+196;Cherbourg-en-Cotentin
+197;Granville
+198;Châlons-en-Champagne
+199;Reims
+200;Thillois
+201;Chamarandes-Choignes
+202;Chaumont
+203;Laval
+204;Mayenne
+205;Nancy
+206;Pont-à-Mousson
+207;Toul
+208;Jarny
+209;Villers-lès-Nancy
+210;Malzéville
+211;Laxou
+212;Bar-le-Duc
+213;Verdun
+214;Lorient
+215;Pontivy
+216;Vannes
+217;Ploërmel
+218;Forbach
+219;Courcelles-Chaussy
+220;Peltre
+221;Creutzwald
+222;Sarreguemines
+223;Yutz
+224;Nevers
+225;Château-Chinon (Ville)
+226;Decize
+227;Armentières
+228;Avesnes-sur-Helpe
+229;Cambrai
+230;Le Cateau-Cambrésis
+231;Douai
+232;Dunkerque
+233;Hazebrouck
+234;Lille
+235;La Madeleine
+236;Roubaix
+237;Valenciennes
+238;Aulnoye-Aymeries
+239;Genech
+240;Maubeuge
+241;Creil
+242;Compiègne
+243;Senlis
+244;Beauvais
+245;Alençon
+246;Argentan
+247;Flers
+248;Sées
+249;Arras
+250;Béthune
+251;Boulogne-sur-Mer
+252;Calais
+253;Hénin-Beaumont
+254;Lillers
+255;Saint-Omer
+256;Saint-Pol-sur-Ternoise
+257;Lens
+258;Saint-Martin-Boulogne
+259;Berck
+260;Longuenesse
+261;Bapaume
+262;Beuvry
+263;Wingles
+264;Aire-sur-la-Lys
+265;Clermont-Ferrand
+266;Riom
+267;Thiers
+268;Anglet
+269;Bayonne
+270;Mourenx
+271;Pau
+272;Ustaritz
+273;Saint-Palais
+274;Tarbes
+275;Vic-en-Bigorre
+276;Perpignan
+277;Prades
+278;Elne
+279;Haguenau
+280;Molsheim
+281;Saverne
+282;Strasbourg
+283;Illkirch-Graffenstaden
+284;Altkirch
+285;Mulhouse
+286;Colmar
+287;Saint-Louis
+288;Pulversheim
+289;Lyon 6e  Arrondissement
+290;Lyon 7e  Arrondissement
+291;Lyon 3e  Arrondissement
+292;Lyon 1er Arrondissement
+293;Lyon 9e  Arrondissement
+294;Oullins
+295;Lyon 5e  Arrondissement
+296;Lyon
+297;Limonest
+298;Lyon 8e  Arrondissement
+299;Givors
+300;Saint-Priest
+301;Bron
+302;Gray
+303;Vesoul
+304;Chalon-sur-Saône
+305;Cluny
+306;Louhans
+307;Mâcon
+308;Digoin
+309;Le Creusot
+310;Le Mans
+311;Bernay-Neuvy-en-Champagne
+312;Aix-les-Bains
+313;Chambéry
+314;Albertville
+315;La Motte-Servolex
+316;Jacob-Bellecombette
+317;La Ravoire
+318;Le Bourget-du-Lac
+319;Annecy
+320;Argonay
+321;Cluses
+322;Thonon-les-Bains
+323;Evian-les-Bains
+324;Annemasse
+325;Paris  5e  Arrondissement
+326;Paris  3e  Arrondissement
+327;Paris 19e  Arrondissement
+328;Paris  8e  Arrondissement
+329;Paris  9e  Arrondissement
+330;Paris 10e  Arrondissement
+331;Paris 12e  Arrondissement
+332;Paris 13e  Arrondissement
+333;Paris 18e  Arrondissement
+334;Paris 14e  Arrondissement
+335;Paris 15e  Arrondissement
+336;Paris 16e  Arrondissement
+337;Paris 17e  Arrondissement
+338;Paris 20e  Arrondissement
+339;Paris
+340;Paris  7e  Arrondissement
+341;Barentin
+342;Elbeuf
+343;Eu
+344;Le Havre
+345;Rouen
+346;Sotteville-lès-Rouen
+347;Mont-Saint-Aignan
+348;Yvetot
+349;Saint-Etienne-du-Rouvray
+350;Déville-lès-Rouen
+351;Canteleu
+352;Avon
+353;Champagne-sur-Seine
+354;Chelles
+355;Meaux
+356;Melun
+357;Montereau-Fault-Yonne
+358;Brie-Comte-Robert
+359;Congis-sur-Thérouanne
+360;Noisiel
+361;Mitry-Mory
+362;Torcy
+363;Savigny-le-Temple
+364;Bussy-Saint-Georges
+365;Vaux-le-Pénil
+366;Fontainebleau
+367;Lieusaint
+368;Marne-la-Vallée
+369;Les Mureaux
+370;Montigny-le-Bretonneux
+371;Poissy
+372;Versailles
+373;Vélizy-Villacoublay
+374;Guyancourt
+375;Mantes-la-Jolie
+376;Rambouillet
+377;Saint-Germain-en-Laye
+378;Sartrouville
+379;Verneuil-sur-Seine
+380;Bressuire
+381;Thouars
+382;Niort
+383;Amiens
+384;Cottenchy
+385;Corbie
+386;Montdidier
+387;Friville-Escarbotin
+388;Albi
+389;Castres
+390;Mazamet
+391;Montauban
+392;La Seyne-sur-Mer
+393;Toulon
+394;La Garde
+395;Avignon
+396;Cavaillon
+397;L'Isle-sur-la-Sorgue
+398;Les Herbiers
+399;Saint-Laurent-sur-Sèvre
+400;La Roche-sur-Yon
+401;Challans
+402;Fontenay-le-Comte
+403;Montaigu-Vendée
+404;Châtellerault
+405;Poitiers
+406;Saint-Junien
+407;Verneuil-sur-Vienne
+408;Epinal
+409;Neufchâteau
+410;Saint-Dié-des-Vosges
+411;Mirecourt
+412;Gugnécourt
+413;Tonnerre
+414;Venoy
+415;Auxerre
+416;Belfort
+417;Corbeil-Essonnes
+418;Etampes
+419;Orsay
+420;Savigny-sur-Orge
+421;Massy
+422;Athis-Mons
+423;Brétigny-sur-Orge
+424;Evry-Courcouronnes
+425;Bures-sur-Yvette
+426;Saint-Michel-sur-Orge
+427;Boulogne-Billancourt
+428;Clichy
+429;Colombes
+430;Neuilly-sur-Seine
+431;Puteaux
+432;Sceaux
+433;Suresnes
+434;Vanves
+435;Rueil-Malmaison
+436;Ville-d'Avray
+437;Nanterre
+438;Levallois-Perret
+439;Courbevoie
+440;Villeneuve-la-Garenne
+441;Aubervilliers
+442;Bondy
+443;Drancy
+444;Epinay-sur-Seine
+445;Montreuil
+446;Saint-Denis
+447;Le Raincy
+448;Aulnay-sous-Bois
+449;Gagny
+450;Bobigny
+451;La Courneuve
+452;Livry-Gargan
+453;Dugny
+454;Cachan
+455;Créteil
+456;Saint-Maur-des-Fossés
+457;Vincennes
+458;Vitry-sur-Seine
+459;Orly
+460;Fontenay-sous-Bois
+461;Joinville-le-Pont
+462;Ivry-sur-Seine
+463;Argenteuil
+464;Enghien-les-Bains
+465;Ermont
+466;Pontoise
+467;Sarcelles
+468;Saint-Ouen-l'Aumône
+469;Cergy
+470;Deuil-la-Barre
+471;Ajaccio
+472;Bastia
+473;Corte
+474;Basse-Terre
+475;Les Abymes
+476;Fort-de-France
+477;Le Lamentin
+478;Bellefontaine
+479;Cayenne
+480;Kourou
+481;Le Tampon
+482;Saint-Pierre
+483;Les Avirons
+484;Saint-Paul
+485;Le Port
+486;Les Trois-Bassins
+487;Saint-Benoît
+488;Punaauia
+489;Faaa
+490;Papara
+491;Schoelcher
+492;Lectoure
+493;Chamalières
+494;Paris 11e  Arrondissement
+495;Saint-Laurent-du-Maroni
+496;Tourcoing
+497;Sada
+498;Mamoudzou
+499;Camblanes-et-Meynac
+500;Dembeni
+501;Clisson
+502;Sérignan
+503;Varennes-sur-Seine
+504;Tournon-sur-Rhône
+505;Chailly-en-Brie
+506;Montbard
+507;Vénissieux
+508;Longwy
+509;Papeete
+510;Mignières
+511;Sainte-Suzanne
+512;Ancenis-Saint-Géréon
+513;Segré-en-Anjou Bleu
+514;Longjumeau
+515;Ferrières-sur-Ariège
+516;Liévin
+517;Baie-Mahault
+518;Montigny-lès-Metz
+519;Montferrier-sur-Lez
+520;Arcachon
+521;Saint-Amans-Soult
+522;Fécamp
+523;Beaugency
+524;Aubin
+525;Bergerac
+526;Héricourt
+527;Sablé-sur-Sarthe
+528;Tréguier
+529;Pont-de-Chéruy
+530;L'Aigle
+531;Saint-Genest-Lerpt
+532;Pirae
+533;Uturoa
+534;Morcenx-la-Nouvelle
+535;Saint-Jean-du-Gard
+536;Saint-Claude
+537;Peyrehorade
+538;Sens
+539;Etel
+540;Fourmies
+541;Saint-Martin
+542;Le Moule
+543;Romorantin-Lanthenay
+544;Amboise
+545;Pierrefonds
+546;Ozoir-la-Ferrière
+547;Sète
+548;Samatan
+549;Dammarie-les-Lys
+550;Sainte-Marie
+551;Gignac-la-Nerthe
+552;Saint-Ouen-sur-Seine
+553;Lourdes
+554;Bagnols-sur-Cèze
+555;Verneuil d'Avre et d'Iton
+556;Chasseneuil-du-Poitou
+557;Nogaro
+558;Carmaux
+559;La Couronne
+560;Saint-Barthélemy-d'Anjou
+561;Wattignies
+562;Châtenay-Malabry
+563;Lattes
+564;Moirans-en-Montagne
+565;Autun
+566;Revel
+567;Graulhet
+568;Langogne
+569;La Souterraine
+570;Vallon-Pont-d'Arc
+571;Morteau
+572;Bagnolet
+573;Ruffec
+574;Lucé
+575;Maurepas
+576;Saint-Avold
+577;Epron
+578;Saint-Jean-d'Illac
+579;Villejuif
+580;Mana
+581;Arles
+582;Saumur
+583;Le Kremlin-Bicêtre
+584;Pontarlier
+585;Privas
+586;Dechy
+587;Guéret
+588;Bourgoin-Jallieu
+589;Saint-Genis-Laval
+590;Villefranche-sur-Saône
+591;Thionville
+592;Remiremont
+593;Dieppe
+594;Saint-Chamond
+595;Rouffach
+596;Châlette-sur-Loing
+597;Coulommiers
+598;La Queue-en-Brie
+599;Lempdes
+600;Vichy
+601;Bellac
+602;Villeneuve-sur-Lot
+603;Marseille 12e  Arrondissement
+604;Saint-Amand-Montrond
+605;Drap
+606;Cournon-d'Auvergne
+607;Firminy
+608;Escurolles
+609;Louvroil
+610;Arnouville
+611;Wormhout
+612;Cormeilles-en-Parisis
+613;Lagord
+614;Vandoeuvre-lès-Nancy
+615;Bois-Guillaume
+616;Monaco
+617;Neuilly-sur-Marne
+618;London
+619;Saint-Sébastien-de-Morsent
+620;Sèvres
+621;Borgo
+622;Faverges-Seythenex
+623;Ouangani
+624;Vaires-sur-Marne
+625;Elancourt
+626;Pointe-à-Pitre
+627;Orange
+628;Limas
+629;Loos
+630;Lodève
+631;Tournefeuille
+632;Wassy
+633;Meudon
+634;Contamine-sur-Arve
+635;Bègles
+636;Antony
+637;Arcueil
+638;Mérignac
+639;Gassin
+640;Ecully
+641;La Flèche
+642;Rabat
+643;Paris  4e  Arrondissement
+644;Fourchambault
+645;Gennevilliers
+646;Libourne
+647;Mauguio
+648;Figeac
+649;Ploubazlanec
+650;Montrouge
+651;Hanoï
+652;Wittenheim
+653;Oloron-Sainte-Marie
+654;Aire-sur-l'Adour
+655;Schiltigheim
+656;Sélestat
+657;Caudry
+658;Chasseneuil-sur-Bonnieure
+659;Six-Fours-les-Plages
+660;Saint-André
+661;Domfront en Poiraie
+662;L'Isle-Jourdain
+663;Paray-le-Monial
+664;La Teste-de-Buch
+665;Mantes-la-Ville
+666;Ambérieu-en-Bugey
+667;Mougins
+668;Ferney-Voltaire
+669;Château-Thierry
+670;Fontaine-lès-Vervins
+671;Chauny
+672;Cuffies
+673;Menton
+674;Rethel
+675;Saint-Laurent
+676;Mirepoix
+677;Romilly-sur-Seine
+678;Sainte-Savine
+679;Castelnaudary
+680;Lasbordes
+681;Villefranche-de-Rouergue
+682;Marseille  4e  Arrondissement
+683;Miramas
+684;Lambesc
+685;Deauville
+686;Falaise
+687;Vire Normandie
+688;Douvres-la-Délivrande
+689;Cognac
+690;Confolens
+691;Saint-Jean-d'Angély
+692;Voutezac
+693;Plombières-lès-Dijon
+694;Felletin
+695;Ahun
+696;Sarlat-la-Canéda
+697;Boulazac Isle Manoire
+698;Levier
+699;Die
+700;Romans-sur-Isère
+701;Crest
+702;Bourg-de-Péage
+703;Bernay
+704;Gisors
+705;Louviers
+706;Fouesnant
+707;Landerneau
+708;Saint-Pol-de-Léon
+709;Châteaulin
+710;Saint-Christol-lez-Alès
+711;Balma
+712;Lormont
+713;Lunel
+714;Castelnau-le-Lez
+715;Dinard
+716;Cesson-Sévigné
+717;Saint-Cyran-du-Jambot
+718;Chinon
+719;Vizille
+720;La Côte-Saint-André
+721;Sassenage
+722;Moirans
+723;Saint-Pierre-du-Mont
+724;Rive-de-Gier
+725;Vals-près-le-Puy
+726;Châteaubriant
+727;Derval
+728;Orvault
+729;Gien
+730;Villemandeur
+731;Saint-Jean-de-Braye
+732;Nérac
+733;Verrières-en-Anjou
+734;Chemillé-en-Anjou
+735;Coutances
+736;Saint-Lô
+737;Vitry-le-François
+738;Somme-Vesle
+739;Avize
+740;Langres
+741;Saint-Dizier
+742;Evron
+743;Lunéville
+744;Tomblaine
+745;Art-sur-Meurthe
+746;Auray
+747;Questembert
+748;Arradon
+749;Fameck
+750;Sarrebourg
+751;Rombas
+752;Talange
+753;Saint-Amand-les-Eaux
+754;Chantilly
+755;Mortagne-au-Perche
+756;Bruay-la-Buissière
+757;Tilloy-lès-Mofflaines
+758;Le Touquet-Paris-Plage
+759;Coulogne
+760;Le Breuil-sur-Couze
+761;Rochefort-Montagne
+762;Pont-du-Château
+763;Orthez
+764;Montardon
+765;Obernai
+766;Erstein
+767;Wintzenheim
+768;Guebwiller
+769;Décines-Charpieu
+770;Dardilly
+771;Fontaines
+772;La Ferté-Bernard
+773;Ugine
+774;Bonneville
+775;Saint-Julien-en-Genevois
+776;La Roche-sur-Foron
+777;Lillebonne
+778;Sainte-Adresse
+779;Nemours
+780;Provins
+781;Combs-la-Ville
+782;Moissy-Cramayel
+783;Champs-sur-Marne
+784;Plaisir
+785;Trappes
+786;Conflans-Sainte-Honorine
+787;Le Chesnay-Rocquencourt
+788;Melle
+789;Brignoles
+790;Saint-Raphaël
+791;Hyères
+792;Fréjus
+793;Draguignan
+794;Carpentras
+795;Luçon
+796;Sainte-Gemme-la-Plaine
+797;Montmorillon
+798;Valdoie
+799;Brunoy
+800;Sainte-Geneviève-des-Bois
+801;Les Ulis
+802;Arpajon
+803;Vaucresson
+804;Noisy-le-Sec
+805;Villemomble
+806;Tremblay-en-France
+807;Noisy-le-Grand
+808;Champigny-sur-Marne
+809;Maisons-Alfort
+810;Nogent-sur-Marne
+811;Le Perreux-sur-Marne
+812;Thiais
+813;Alfortville
+814;Choisy-le-Roi
+815;Chennevières-sur-Marne
+816;Goussainville
+817;Franconville
+818;Fosses
+819;Taverny
+820;Garges-lès-Gonesse
+821;Sartène
+822;Capesterre-Belle-Eau
+823;Morne-à-l'Eau
+824;Petit-Bourg
+825;Le Gosier
+826;Port-Louis
+827;La Trinité
+828;Rivière-Salée
+829;Remire-Montjoly
+830;Saint-Joseph
+831;Moorea
+832;Quetigny
+833;Pézenas
+834;Hennebont
+835;Cerny
+836;Issy-les-Moulineaux
+837;Varzy
+838;Taiarapu-ouest
+839;Ploemeur
+840;Roville-aux-Chênes
+841;Saint-Cloud
+842;Rostrenen
+843;Mugron
+844;Noeux-les-Mines
+845;Pointe-Noire
+846;Péronne
+847;Saint-Girons
+848;Giel-Courteilles
+849;Saint-Affrique
+850;Le Robert
+851;Chevilly-Larue
+852;Fleury-les-Aubrais
+853;Bruz
+854;Pithiviers
+855;Mtsamboro
+856;Saint-Méen-le-Grand
+857;Mont-de-Marsan
+858;Charolles
+859;Dieuze
+860;Lavelanet
+861;Haubourdin
+862;Nyons
+863;Vaujours
+864;Lyon 4e  Arrondissement
+865;Essey-lès-Nancy
+866;Bellerive-sur-Allier
+867;Ollioules
+868;Clermont
+869;Epagny Metz-Tessy
+870;Mons-en-Baroeul
+871;Val de Briey
+872;Epernay
+873;Montbrison
+874;Javené
+875;Le Portel
+876;Vouneuil-sous-Biard
+877;Buc
+878;Blanquefort
+879;Quintin
+880;Chirongui
+881;Souilhanels
+882;Olivet
+883;Le Ban-Saint-Martin
+884;Etaples
+885;Avion
+886;Marseille 16e  Arrondissement
+887;Vauréal
+888;Guipavas
+889;Lingolsheim
+890;Saint-Jean-de-Monts
+891;Serris
+892;Palaiseau
+893;Paris  1er Arrondissement
+894;Lure
+895;Bavilliers
+896;Istres
+897;Rosières-près-Troyes
+898;Pamandzi
+899;Jacou
+900;Montmorency
+901;Font-Romeu-Odeillo-Via
+902;RABAT-SALE
+903;Thônes
+904;Foulayronnes
+905;Buxières-lès-Villiers
+906;Draveil
+907;Aubagne
+908;Estaires
+909;Monteils
+910;Le Vigan
+911;Abbeville
+912;Moulins
+913;Sainte-Livrade-sur-Lot
+914;Château-Renault
+915;L'Arbresle
+916;Lesparre-Médoc
+917;Trévoux
+918;Digne-les-Bains
+919;Manosque
+920;Le Teil
+921;Saint-Pouange
+922;Rignac
+923;Saint-Sernin-sur-Rance
+924;Marseille 11e  Arrondissement
+925;Saint-Flour
+926;Surgères
+927;Le Subdray
+928;Ussel
+929;Merdrignac
+930;Langueux
+931;Mamirolle
+932;Dannemarie-sur-Crète
+933;Pierrelatte
+934;Châteaudun
+935;Sours
+936;Carhaix-Plouguer
+937;Quimperlé
+938;Gourdan-Polignan
+939;Saint-Gaudens
+940;Colomiers
+941;Cugnaux
+942;Montagne
+943;Villenave-d'Ornon
+944;Saint-Ismier
+945;Montmorot
+946;Yssingeaux
+947;Gorges
+948;Nogent-sur-Vernisson
+949;Marvejols
+950;Agneaux
+951;Lanester
+952;Château-Salins
+953;Cosne-Cours-sur-Loire
+954;Denain
+955;Lambersart
+956;Somain
+957;Wattrelos
+958;Sin-le-Noble
+959;Condé-sur-l'Escaut
+960;Nogent-sur-Oise
+961;Noyon
+962;Montataire
+963;Méru
+964;Damigny
+965;Issoire
+966;Chéraute
+967;Biarritz
+968;Bagnères-de-Bigorre
+969;Argelès-sur-Mer
+970;Thann
+971;Vaulx-en-Velin
+972;Rillieux-la-Pape
+973;Luxeuil-les-Bains
+974;Montceau-les-Mines
+975;Rouillon
+976;Pruillé-le-Chétif
+977;Allonnes
+978;Saint-Jean-de-Maurienne
+979;Passy
+980;Poisy
+981;Montivilliers
+982;Darnétal
+983;Le Grand-Quevilly
+984;Neufchâtel-en-Bray
+985;Lagny-sur-Marne
+986;Roissy-en-Brie
+987;Saint-Cyr-l'Ecole
+988;Jouy-en-Josas
+989;La Queue-les-Yvelines
+990;Le Tremblay-sur-Mauldre
+991;Parthenay
+992;Gaillac
+993;Verdalle
+994;Brens
+995;Le Muy
+996;Les Sables-d'Olonne
+997;Civray
+998;Loudun
+999;Rouillé
+1000;Gérardmer
+1001;Gif-sur-Yvette
+1002;Dourdan
+1003;Bagneux
+1004;Limeil-Brévannes
+1005;Fresnes
+1006;L'Isle-Adam
+1007;Ducos
+1008;Le Petit-Quevilly
+1009;Wasquehal
+1010;Cenon
+1011;Le Lorrain
+1012;Magnanville
+1013;Saint-Pierre-des-Corps
+1014;Valserhône
+1015;Saint-Eloy-les-Mines
+1016;Embrun
+1017;Echirolles
+1018;Mirande
+1019;Beaupréau-en-Mauges
+1020;Saint-Quay-Portrieux
+1021;Saint-Médard-en-Jalles
+1022;Le Mesnil-Esnard
+1023;Mahina
+1024;Capbreton
+1025;Gonesse
+1026;Beaumont-sur-Oise
+1027;Saint-Egrève
+1028;Saint-André-lez-Lille
+1029;Brumath
+1030;Aiguillon
+1031;Saint-Pierre-Quiberon
+1032;Bétheny
+1033;Contrexéville
+1034;Grande-Synthe
+1035;Anzin
+1036;Matoury
+1037;La Fère
+1038;Madrid
+1039;Magny-les-Hameaux
+1040;Saint-Maximin-la-Sainte-Baume
+1041;Oxford
+1042;BARCELONA
+1043;Porcheville
+1044;Le Marin
+1045;Bourg-lès-Valence
+1046;Bolbec
+1047;Villeneuve-Saint-Georges
+1048;Saint-Jean
+1049;Tournan-en-Brie
+1050;Pantin
+1051;Rousset
+1052;Bourganeuf
+1053;Pecquencourt
+1054;Paimpol
+1055;Vedène
+1056;Guer
+1057;Pezens
+1058;Guilherand-Granges
+1059;Gières
+1060;Misérieux
+1061;Hirson
+1062;Bohain-en-Vermandois
+1063;Le Mayet-de-Montagne
+1064;Millau
+1065;Mauriac
+1066;Cherves-Richemont
+1067;Royan
+1068;Audincourt
+1069;Châteauneuf-de-Galaure
+1070;Anneyron
+1071;Mesnils-sur-Iton
+1072;Gaillon
+1073;Les Andelys
+1074;Lesneven
+1075;Bazas
+1076;Clermont-l'Hérault
+1077;Dol-de-Bretagne
+1078;Hauts de Bienne
+1079;Saint-Priest-en-Jarez
+1080;Perreux
+1081;Ingré
+1082;Somme-Suippe
+1083;Cosnes-et-Romain
+1084;Stenay
+1085;Schoeneck
+1086;Algrange
+1087;Ottange
+1088;Landrecies
+1089;Beaucamps-Ligny
+1090;Airion
+1091;La Ferté Macé
+1092;Carvin
+1093;Saint-Pée-sur-Nivelle
+1094;Bischwiller
+1095;Ingersheim
+1096;Tarare
+1097;Fougerolles-Saint-Valbert
+1098;Davayé
+1099;Sallanches
+1100;Franqueville-Saint-Pierre
+1101;La Rochette
+1102;Le Mée-sur-Seine
+1103;Longperrier
+1104;Pontault-Combault
+1105;Villiers-Saint-Frédéric
+1106;Albert
+1107;Flixecourt
+1108;Chauvigny
+1109;Toucy
+1110;Joigny
+1111;Montgeron
+1112;Bondoufle
+1113;Villepinte
+1114;Clichy-sous-Bois
+1115;Villeneuve-le-Roi
+1116;Sucy-en-Brie
+1117;Margency
+1118;Macouria
+1119;La Possession
+1120;Gannat
+1121;Eaubonne
+1122;Malakoff
+1123;Montluel
+1124;Céret
+1125;Le François
+1126;Le Blanc-Mesnil
+1127;Thuré
+1128;Les Moutiers-en-Cinglais
+1129;La Grand-Combe
+1130;Orchies
+1131;Villiers-le-Bel
+1132;Pontaumur
+1133;Feurs
+1134;Hasparren
+1135;Bras-Panon
+1136;Asnières-sur-Seine
+1137;Canet-en-Roussillon
+1138;Rumilly
+1139;Ruelle-sur-Touvre
+1140;Saint-Vallier
+1141;Longchamp
+1142;Saint-Maixent-l'Ecole
+1143;Saint-Leu
+1144;Epinay-sur-Orge
+1145;Clamart
+1146;Prémontré
+1147;Ambilly
+1148;Plateau d'Hauteville
+1149;Le Blanc
+1150;Garches
+1151;Saint-Michel-de-Maurienne
+1152;Grigny
+1153;Isle
+1154;Bois-Colombes
+1155;Wittelsheim
+1156;Singapour
+1157;Saint-Aignan
+1158;La Celle-Saint-Cloud
+1159;Bourcefranc-le-Chapus
+1160;Casablanca
+1161;Eysines
+1162;Bort-les-Orgues
+1163;Chenôve
+1164;Aniche
+1165;Saint-Berthevin
+1166;Largentière
+1167;Morsang-sur-Orge
+1168;La Garenne-Colombes
+1169;Dives-sur-Mer
+1170;Aureilhan
+1171;Port-de-Bouc
+1172;La Plaine-des-Palmistes
+1173;Crézancy
+1174;Le Chaffaut-Saint-Jurson
+1175;Cagnes-sur-Mer
+1176;Les Loges-Margueron
+1177;Sainte-Maure
+1178;Limoux
+1179;Barbezieux-Saint-Hilaire
+1180;Soyaux
+1181;Auxonne
+1182;Lamballe-Armor
+1183;Aubusson
+1184;Nogent-le-Rotrou
+1185;Plomelin
+1186;Le Faou
+1187;Landivisiau
+1188;Uzès
+1189;Masseube
+1190;Pauillac
+1191;Montfort-sur-Meu
+1192;Monistrol-sur-Loire
+1193;Peyre en Aubrac
+1194;Mortain-Bocage
+1195;Carentan-les-Marais
+1196;Château-Gontier-sur-Mayenne
+1197;Pont-Sainte-Maxence
+1198;Crépy-en-Valois
+1199;Rollancourt
+1200;Lescar
+1201;Wissembourg
+1202;Illzach
+1203;Saint-Laurent-de-Chamousset
+1204;Saint-Saturnin
+1205;Moûtiers
+1206;Mesnières-en-Bray
+1207;Forges-les-Eaux
+1208;Castelsarrasin
+1209;Lorgues
+1210;Chantonnay
+1211;Pouzauges
+1212;Jaunay-Marigny
+1213;Magnac-Laval
+1214;Avallon
+1215;Gron
+1216;Stains
+1217;Rosny-sous-Bois
+1218;Domont
+1219;Jouy-le-Moutier
+1220;Saint-Yrieix-la-Perche
+1221;Lamentin
+1222;Moissac
+1223;Châtillon-sur-Seine
+1224;Arnage
+1225;Saint-Paul-Trois-Châteaux
+1226;Beaumont-de-Lomagne
+1227;La Guerche-de-Bretagne
+1228;Blaye
+1229;Hautmont
+1230;Marseille 14e  Arrondissement
+1231;La Gaude
+1232;Saint-Venant
+1233;Saint-Maurice
+1234;Magny-le-Hongre
+1235;Le Mesnil-Saint-Denis
+1236;Saint-Maximin
+1237;Treffiagat
+1238;Valdeblore
+1239;Maule
+1240;Bouxwiller
+1241;Nangis
+1242;Marcy-l'Etoile
+1243;Azay-le-Rideau
+1244;Ploufragan
+1245;Saint-Chamas
+1246;Lognes
+1247;Mornand-en-Forez
+1248;Rives de l'Yon
+1249;Fès
+1250;CASABLANCA
+1251;Yerres
+1252;L'Union
+1253;Taiarapu-o
+1254;
